@@ -1,5 +1,5 @@
 window.addEventListener('load', function() {
-  const API_URL = 'http://localhost:6282';
+  const API_URL = 'https://ms-login-spf.onrender.com';
   const inputElement = document.getElementById('textInput');
   const errorText = document.getElementById('errorText');
 
